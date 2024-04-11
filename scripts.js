@@ -46,7 +46,7 @@ ScrollReveal().reveal('.home-content h1, .about-img', { origin: 'left' });
 ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 const typed = new Typed('.multiple-text', {
-    strings: ['Software Engineer', 'Artificial Intelligence Developer', 'Ethical Hacker'],
+    strings: ['Professional Writer', 'Research Expert', 'Data Analyst', 'Project Manager', 'Web Developer', 'Software Engineer', 'SDG Advocate'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
